@@ -1,0 +1,23 @@
+{
+  "name": "nsquishy-message",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "main": "index",
+  "engines": {
+    "node": "0.10.x",
+    "node": "0.12.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "wadofgum": "3.2.0"
+  },
+  "keywords": [
+    "build worker"
+  ]
+}
