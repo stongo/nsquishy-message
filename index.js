@@ -1,4 +1,4 @@
-var Model = require('wadofgum');
+var Factory = require('wadofgum');
 var Joi = require('joi');
 var uuid = require('uuid');
 
