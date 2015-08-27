@@ -1,6 +1,6 @@
 {
   "name": "nsquishy-message",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "licenses": [
     {
       "type": "MIT"
@@ -17,7 +17,7 @@
   "dependencies": {
     "uuid": "^2.0.0",
     "joi": "^6.0.0",
-    "wadofgum": "3.2.0"
+    "wadofgum": "^2.1.1"
   },
   "keywords": [
     "build worker"

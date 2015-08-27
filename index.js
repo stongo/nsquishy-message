@@ -15,4 +15,6 @@ var Message = new Factory({
     schema: messageSchema
 });
 
+Message.schema = messageSchema;
+
 module.exports = Message;
