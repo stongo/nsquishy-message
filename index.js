@@ -1,5 +1,4 @@
 var Model = require('wadofgum');
-var messageSchema = require('../schemas/ci-message');
 var Joi = require('joi');
 var uuid = require('uuid');
 

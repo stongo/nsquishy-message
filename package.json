@@ -1,6 +1,6 @@
 {
   "name": "nsquishy-message",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "licenses": [
     {
       "type": "MIT"
@@ -15,6 +15,8 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "uuid": "^2.0.0",
+    "joi": "^6.0.0",
     "wadofgum": "3.2.0"
   },
   "keywords": [
